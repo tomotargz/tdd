@@ -7,3 +7,5 @@ build
 
 app/.project
 app/.settings/
+app/.classpath
+app/bin
